@@ -270,6 +270,7 @@
 - Fingerprint scanners work when you are asleep. Face unlock doesn't. If you have a jealous spouse, don't trust the finger.
 - [Go to Glassdoor and answer every basic question.](https://www.glassdoor.ca/Interview/programming-interview-questions-SRCH_KT0,11.htm?countryRedirect=true)
 - If you suspect you will be criticised in a meeting, sit next to the person in the meeting. It is much harder to be criticised when the person needs to turn the body to you.
+- Happiness does not come from what we receive, but from what we give to those in need. ["Gift Archive"](https://www.gift-archive.com/)
 - ["Never make the same mistake twice"](https://www.quora.com/What-does-Gus-mean-when-he-advises-Walt-Dont-make-the-same-mistake-twice) is not the same as "Always learn from your mistakes." The latter still implies you can fail again.
 - To train vocals, sing through your closed lips for a few minutes.
 - You are much more likely to have a good career if you are universally, consistently nice to your colleagues.- People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
